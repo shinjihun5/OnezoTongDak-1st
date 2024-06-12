@@ -12,6 +12,11 @@
   
   - https://bustling-textbook-8ce.notion.site/OneZo-aadbc84213e34b438c5d5be142ca2e62?pvs=4
 
+
+## PPT 주소
+
+  - https://www.canva.com/design/DAGEgXtp4ec/H9s-zehn9tC9bFXPUbO6Jg/edit?utm_content=DAGEgXtp4ec&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 팀원 소개
 
 **🙋‍♀️ 사공은진**
