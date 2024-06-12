@@ -8,6 +8,10 @@
 
 ## 프론트엔드 역할 및 페이지 담당
 
+## 노션 주소 
+  
+  - https://bustling-textbook-8ce.notion.site/OneZo-aadbc84213e34b438c5d5be142ca2e62?pvs=4
+
 ## 팀원 소개
 
 **🙋‍♀️ 사공은진**
@@ -57,3 +61,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=devcumulus&bg_color=180,000000,&title_color=000000&text_color=000000"
          />  </div> 
     </div>
+
+
+   
